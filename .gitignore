@@ -1,0 +1,4 @@
+*.o
+padlockCubano
+tests/test_cipher
+dist/
