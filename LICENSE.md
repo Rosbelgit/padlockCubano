@@ -1,4 +1,4 @@
-                    GNU GENERAL PUBLIC LICENSE
+                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -51,19 +51,19 @@ authors of previous versions.
 modified versions of the software inside them, although the manufacturer
 can do so.  This is fundamentally incompatible with the aim of
 protecting users' freedom to change the software.  The systematic
-pattern of such abuse occurs in the area of products for individuals to
-use, which is precisely where it is most unacceptable.  Therefore, we
-have designed this version of the GPL to prohibit the practice for those
-products.  If such problems arise substantially in other domains, we
-stand ready to extend this provision to those domains in future versions
-of the GPL, as needed to protect the freedom of users.
+pattern of such abuse occurs in the area of products for individuals
+to use, which is precisely where it is most unacceptable.  Therefore,
+we have designed this version of the GPL to prohibit the practice for
+those products.  If such problems arise substantially in other domains
+as well, we stand ready to extend this provision to those domains in
+future versions of the GPL, as needed to protect the freedom of users.
 
   Finally, every program is threatened constantly by software patents.
 States should not allow patents to restrict development and use of
-software on general-purpose computers, but in those that do, we wish to
-avoid the special danger that patents applied to a free program could
-make it effectively proprietary.  To prevent this, the GPL assures that
-patents cannot be used to render the program non-free.
+software on general-purpose computers, but in those that do, we wish
+to avoid the special danger that patents applied to a free program
+could make it effectively proprietary.  To prevent this, the GPL
+assures that patents cannot be used to render the program non-free.
 
   The precise terms and conditions for copying, distribution and
 modification follow.
@@ -82,9 +82,9 @@ License.  Each licensee is addressed as "you".  "Licensees" and
 "recipients" may be individuals or organizations.
 
   To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
-exact copy.  The resulting work is called a "modified version" of the
-earlier work or a work "based on" the earlier work.
+in a fashion requiring copyright permission, other than the making of
+an exact copy.  The resulting work is called a "modified version" of
+the earlier work or a work "based on" the earlier work.
 
   A "covered work" means either the unmodified Program or a work based
 on the Program.
@@ -137,11 +137,11 @@ work) run the object code and to modify the work, including scripts to
 control those activities.  However, it does not include the work's
 System Libraries, or general-purpose tools or generally available free
 programs which are used unmodified in performing those activities but
-which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
+are not part of the work.  For example, Corresponding Source includes
+interface definition files associated with source files for the work,
+and the source code for shared libraries and dynamically linked
+subprograms that the work is specifically designed to require, such
+as by intimate data communication or control flow between those
 subprograms and other parts of the work.
 
   The Corresponding Source need not include anything that users
@@ -159,7 +159,8 @@ conditions are met.  This License explicitly affirms your unlimited
 permission to run the unmodified Program.  The output from running a
 covered work is covered by this License only if the output, given its
 content, constitutes a covered work.  This License acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
+rights of fair use or any other equivalent right, as provided by
+copyright law.
 
   You may make, run and propagate covered works that you do not
 convey, without conditions so long as your license otherwise remains
@@ -297,23 +298,24 @@ included in conveying the object code work.
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
-into a dwelling.  In determining whether a product is a consumer product,
-doubtful cases shall be resolved in favor of coverage.  For a particular
-product received by a particular user, "normally used" refers to a
-typical or common use of that class of product, regardless of the status
-of the particular user or of the way in which the particular user
-actually uses, or expects or is expected to use, the product.  A product
-is a consumer product regardless of whether the product has substantial
-commercial, industrial or non-consumer uses, unless such uses represent
-the only significant mode of use of the product.
+into a dwelling.  In determining whether a product is a consumer
+product, doubtful cases shall be resolved in favor of coverage.  For a
+particular product received by a particular user, "normally used"
+refers to a typical or common use of that class of product, regardless
+of the status of the particular user or of the way in which the
+particular user actually uses or expects or is expected to use the
+product.  A product is a consumer product regardless of whether the
+product has substantial commercial, industrial or non-consumer uses,
+unless such uses represent the only significant mode of use of the
+product.
 
   "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to install
-and execute modified versions of a covered work in that User Product from
-a modified version of its Corresponding Source.  The information must
-suffice to ensure that the continued functioning of the modified object
-code is in no case prevented or interfered with solely because
-modification has been made.
+procedures, authorization keys, or other information required to
+install and execute modified versions of a covered work in that User
+Product from a modified version of its Corresponding Source.  The
+information must suffice to ensure that the continued functioning of
+the modified object code is in no case prevented or interfered with
+solely because modification has been made.
 
   If you convey an object code work under this section in, or with, or
 specifically for use in, a User Product, and the conveying occurs as
@@ -326,13 +328,13 @@ if neither you nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
 been installed in ROM).
 
-  The requirement to provide Installation Information does not include a
-requirement to continue to provide support service, warranty, or updates
-for a work that has been modified or installed by the recipient, or for
-the User Product in which it has been modified or installed.  Access to a
-network may be denied when the modification itself materially and
-adversely affects the operation of the network or violates the rules and
-protocols for communication across the network.
+  The requirement to provide Installation Information does not include
+a requirement to continue to provide support service, warranty, or
+updates for a work that has been modified or installed by the
+recipient, or for the User Product in which it has been modified or
+installed.  Access to a network may be denied when the modification
+itself materially and adversely affects the operation of the network or
+violates the rules and protocols for communication across the network.
 
   Corresponding Source conveyed, and Installation Information provided,
 in accord with this section must be in a format that is publicly
@@ -359,8 +361,8 @@ additional permissions on material, added by you to a covered work,
 for which you have or can give appropriate copyright permission.
 
   Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:
+add to a covered work, you may (if authorized by the copyright holders
+of that material) supplement the terms of this License with terms:
 
     a) Disclaiming warranty or limiting liability differently from the
     terms of sections 15 and 16 of this License; or
@@ -541,13 +543,14 @@ otherwise be available to you under applicable patent law.
 
   If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
-excuse you from the conditions of this License.  If you cannot convey a
-covered work so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you may
-not convey it at all.  For example, if you agree to terms that obligate you
-to collect a royalty for further conveying from those to whom you convey
-the Program, the only way you could satisfy both those terms and this
-License would be to refrain entirely from conveying the Program.
+excuse you from the conditions of this License.  If you cannot convey
+a covered work so as to satisfy simultaneously your obligations under
+this License and any other pertinent obligations, then as a consequence
+you may not convey it at all.  For example, if you agree to terms that
+obligate you to collect a royalty for further conveying from those to
+whom you convey the Program, the only way you could satisfy both those
+terms and this License would be to refrain entirely from conveying
+the Program.
 
   13. Use with the GNU Affero General Public License.
 
@@ -563,9 +566,9 @@ combination as such.
   14. Revised Versions of this License.
 
   The Free Software Foundation may publish revised and/or new versions of
-the GNU General Public License from time to time.  Such new versions will
-be similar in spirit to the present version, but may differ in detail to
-address new problems or concerns.
+the GNU General Public License from time to time.  Such new versions
+will be similar in spirit to the present version, but may differ in
+detail to address new problems or concerns.
 
   Each version is given a distinguishing version number.  If the
 Program specifies that a certain numbered version of the GNU General
