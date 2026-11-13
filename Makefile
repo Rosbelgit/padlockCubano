@@ -7,10 +7,11 @@ GTK_LIBS    := $(shell $(PKG) --libs   gtk+-3.0 2>/dev/null)
 
 SRCS = src/cipher.c src/main.c
 BIN  = padlockCubano
+TEST = tests/test_cipher
 
-.PHONY: all clean
+.PHONY: all clean test
 
-all: $(BIN)
+all: $(BIN) $(TEST)
 
 $(BIN): $(SRCS)
 ifeq ($(GTK_LIBS),)
@@ -20,5 +21,11 @@ ifeq ($(GTK_LIBS),)
 endif
 	$(CC) $(CFLAGS) $(GTK_CFLAGS) $(SRCS) -o $(BIN) $(GTK_LIBS)
 
+$(TEST): src/cipher.c tests/test_cipher.c
+	$(CC) $(CFLAGS) -I src src/cipher.c tests/test_cipher.c -o $(TEST)
+
+test: $(TEST)
+	./$(TEST)
+
 clean:
-	rm -f $(BIN) padlockCubano.exe
+	rm -f $(BIN) $(TEST) padlockCubano.exe
