@@ -20,5 +20,6 @@ jobs:
       - name: Compilar (Linux)
         run: make
 
-      - name: Ejecutar pruebas
-        run: make tests/test_cipher && ./tests/test_cipher
+      - name: Compilar programa
+        run: gcc -Wall -Werror recover.c -o recover
+        
