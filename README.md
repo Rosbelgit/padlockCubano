@@ -4,7 +4,7 @@ Cifrador/descifrador por **sustitución simple** (monoalfabeto) con interfaz gr�
 
 ## Origen
 
-Backend adaptado de `substitution.c` (CS50): lee una clave de 26 letras y reemplaza cada letra del mensaje por la letra de la clave en la misma posición del abecedario. Los caracteres que no son letras (espacios, números, signos) se dejan igual.
+Backend inspirado en (CS50): lee una clave de 26 letras y reemplaza cada letra del mensaje por la letra de la clave en la misma posición del abecedario. Los caracteres que no son letras (espacios, números, signos) se dejan igual.
 
 ## Estructura
 
