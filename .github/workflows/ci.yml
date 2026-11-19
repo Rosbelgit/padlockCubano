@@ -19,7 +19,4 @@ jobs:
 
       - name: Compilar (Linux)
         run: make
-
-      - name: Compilar programa
-        run: gcc -Wall -Werror recover.c -o recover
         
